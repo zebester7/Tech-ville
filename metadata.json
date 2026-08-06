@@ -1,0 +1,6 @@
+{
+  "name": "TechVille",
+  "description": "Climate risk analytics and risk intelligence company providing scientific solutions for agriculture, insurance, finance, and commercial sectors worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
