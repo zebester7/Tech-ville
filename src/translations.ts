@@ -10,7 +10,10 @@ export const translations = {
       industries: "Industries",
       insights: "Insights",
       projects: "Projects",
+<<<<<<< HEAD
       team: "Team",
+=======
+>>>>>>> 75b8644c422fb7fc04f7a584f81b9fdac5029a46
       contact: "Contact",
       aiAdvisor: "AI Advisor",
       dashboard: "Climate Map",
@@ -35,7 +38,10 @@ export const translations = {
       loading: "Loading...",
       downloading: "Preparing Download...",
       downloadSuccess: "Download started successfully!",
+<<<<<<< HEAD
       viewEquipmentServices: "View Equipment Services",
+=======
+>>>>>>> 75b8644c422fb7fc04f7a584f81b9fdac5029a46
     },
     // Home Page
     home: {
@@ -105,6 +111,7 @@ export const translations = {
         "Decision Support Systems & Customized Web API Ingestion",
       ],
     },
+<<<<<<< HEAD
     // Team Page
     team: {
       title: "Our Team",
@@ -126,6 +133,8 @@ export const translations = {
       joinText: "We're always looking for talented climate scientists, data engineers, and geospatial analysts to join our mission. If you're passionate about climate resilience and scientific innovation, we'd love to hear from you.",
       joinButton: "View Careers",
     },
+=======
+>>>>>>> 75b8644c422fb7fc04f7a584f81b9fdac5029a46
     // Services Page
     services: {
       title: "Our Services",
@@ -177,10 +186,13 @@ export const translations = {
           name: "Catastrophe Risk Analytics",
           desc: "Actuarial-grade modeling of exposure portfolios, quantifying prospective Average Annual Loss (AAL) and Probable Maximum Loss (PML).",
         },
+<<<<<<< HEAD
         {
           name: "Geo-Spatial Analytics & Remote Sensing",
           desc: "Advanced satellite imagery processing (Sentinel, Landsat, MODIS) for land cover classification, vegetation health monitoring, change detection, and high-resolution terrain analysis using GIS platforms.",
         },
+=======
+>>>>>>> 75b8644c422fb7fc04f7a584f81b9fdac5029a46
       ],
       // Weather Equipment Deployment Section
       equipmentTitle: "Weather Equipment Deployment",
@@ -236,6 +248,15 @@ export const translations = {
           points: ["Hydropower inflow forecasting", "Wildfire wind-vector danger zoning", "Asset thermal strain monitoring"],
         },
         {
+<<<<<<< HEAD
+=======
+          id: "finance",
+          title: "Banking & Financial Institutions",
+          desc: "Enabling banks, ESG funds, and asset managers to assess transitional and physical climate risks of credit portfolios in compliance with TCFD and European CSRD disclosures.",
+          points: ["TCFD and CSRD framework alignment", "Physical asset risk scoring", "Investment scenario stress testing"],
+        },
+        {
+>>>>>>> 75b8644c422fb7fc04f7a584f81b9fdac5029a46
           id: "government",
           title: "Government & Public Sector",
           desc: "Supporting national meteorological departments, development agencies, and city planners with climate adaptation roadmaps, early warning portals, and master plan disaster mapping.",
@@ -345,7 +366,10 @@ export const translations = {
       industries: "Secteurs",
       insights: "Analyses",
       projects: "Projets",
+<<<<<<< HEAD
       team: "Équipe",
+=======
+>>>>>>> 75b8644c422fb7fc04f7a584f81b9fdac5029a46
       contact: "Contact",
       aiAdvisor: "Conseiller IA",
       dashboard: "Carte Climatique",
@@ -370,7 +394,10 @@ export const translations = {
       loading: "Chargement...",
       downloading: "Préparation du Téléchargement...",
       downloadSuccess: "Téléchargement démarré avec succès !",
+<<<<<<< HEAD
       viewEquipmentServices: "Voir les Services d'Équipement",
+=======
+>>>>>>> 75b8644c422fb7fc04f7a584f81b9fdac5029a46
     },
     // Home Page
     home: {
@@ -440,6 +467,7 @@ export const translations = {
         "Systèmes d'Aide à la Décision & Intégration d'API Web Personnalisées",
       ],
     },
+<<<<<<< HEAD
     // Team Page (French)
     team: {
       title: "Notre Équipe",
@@ -461,6 +489,8 @@ export const translations = {
       joinText: "Nous cherchons toujours des climatologues, ingénieurs de données et analystes géospatiaux talentueux pour rejoindre notre mission. Si vous êtes passionné par la résilience climatique et l'innovation scientifique, nous aimerions vous entendre.",
       joinButton: "Voir les Carrières",
     },
+=======
+>>>>>>> 75b8644c422fb7fc04f7a584f81b9fdac5029a46
     // Services Page
     services: {
       title: "Nos Services",
@@ -512,10 +542,13 @@ export const translations = {
           name: "Analyses de Risques de Catastrophes (Cat)",
           desc: "Modélisation actuarielle des portefeuilles d'exposition, quantifiant la perte annuelle moyenne (AAL) prospective et la perte maximale probable (PML).",
         },
+<<<<<<< HEAD
         {
           name: "Analyses Géospatiales & Télédétection",
           desc: "Traitement avancé d'images satellite (Sentinel, Landsat, MODIS) pour la classification de l'occupation des sols, la surveillance de la santé de la végétation, la détection des changements et l'analyse du terrain à haute résolution via des plateformes SIG.",
         },
+=======
+>>>>>>> 75b8644c422fb7fc04f7a584f81b9fdac5029a46
       ],
       // Weather Equipment Deployment Section (French)
       equipmentTitle: "Déploiement d'Équipements Météorologiques",
@@ -571,6 +604,15 @@ export const translations = {
           points: ["Prévision des apports hydroélectriques", "Zonage des dangers incendie par vecteur de vent", "Surveillance de la contrainte thermique des actifs"],
         },
         {
+<<<<<<< HEAD
+=======
+          id: "finance",
+          title: "Banques & Institutions Financières",
+          desc: "Permettre aux banques, fonds ESG et gestionnaires d'actifs d'évaluer les risques physiques et de transition des portefeuilles de crédit conformément aux normes TCFD et CSRD européennes.",
+          points: ["Alignement réglementaire TCFD / CSRD", "Score de risque physique des actifs", "Stress-testing de scénarios d'investissement"],
+        },
+        {
+>>>>>>> 75b8644c422fb7fc04f7a584f81b9fdac5029a46
           id: "government",
           title: "Gouvernement & Secteur Public",
           desc: "Accompagner les agences nationales, les collectivités territoriales et les aménageurs dans l'élaboration de plans d'adaptation, de systèmes d'alerte et de cartographies de vulnérabilité urbaine.",
